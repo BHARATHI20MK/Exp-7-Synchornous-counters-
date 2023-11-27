@@ -79,10 +79,12 @@ Down counter:
 ![dwc wf](https://github.com/BHARATHI20MK/Exp-7-Synchornous-counters-/assets/147474125/c2ab2901-3653-4793-957f-f968f885ad4c)
 
 ### TRUTH TABLE 
+Up counter:
+![image](https://github.com/BHARATHI20MK/Exp-7-Synchornous-counters-/assets/147474125/945042cf-74c5-475b-8a63-13cb171fb142)
 
-
-
-
-
+Down counter:
+![image](https://github.com/BHARATHI20MK/Exp-7-Synchornous-counters-/assets/147474125/1a4e8611-6cff-4906-923d-2d4732411bf9)
 
 ### RESULTS 
+
+Implementation of up counter and down counter was successfully completed 
