@@ -65,7 +65,9 @@ Down counter:
 ![dwc code](https://github.com/BHARATHI20MK/Exp-7-Synchornous-counters-/assets/147474125/ad3b1bf4-cc72-47a9-9786-846100b1c89c)
 
 ### RTL diagram:
+
 Up counter:
+
 ![upc rtl](https://github.com/BHARATHI20MK/Exp-7-Synchornous-counters-/assets/147474125/92429cc9-5f19-4849-b4d0-cf0ee2f08f56)
 
 Down counter:
